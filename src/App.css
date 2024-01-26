@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+
+}
+h1 {
+  color: #67cc02;
+  font-size: 100px;
+  
+}
+h2 {
+  color: #235391;
+  font-size: 65px;
+
+}
+
+
+body {
+  background-color: #e8e6e6;
+  color: white;
+  padding: 0px;
+  font-family: 'Josefin Sans', Sans-Serif;
+  text-align: center;
+}
